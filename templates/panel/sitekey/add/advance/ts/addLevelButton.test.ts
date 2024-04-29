@@ -57,7 +57,7 @@ const finalHtml = () => {
   </label>
 
   <label class="sitekey-form__label" for="duration">
-    Cooldown Duratoin(in seconds)
+    Cooldown Duration(in seconds)
     <input
       class="sitekey-form__input"
       type="number"
