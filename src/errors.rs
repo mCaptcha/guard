@@ -77,7 +77,7 @@ pub enum ServiceError {
 
     #[display(fmt = "Passsword too short")]
     PasswordTooShort,
-    #[display(fmt = "Username too long")]
+    #[display(fmt = "Password too long")]
     PasswordTooLong,
     #[display(fmt = "Passwords don't match")]
     PasswordsDontMatch,
